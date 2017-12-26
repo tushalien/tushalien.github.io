@@ -1,0 +1,15 @@
+name: Alien Thoughts
+title: Alien Thoughts
+highlighter: rouge
+markdown: kramdown
+exclude:
+- node_modules
+- vendor
+comments: true
+navigation:
+- text: Blog
+  url: /
+- text: Projects
+  url: /projects/
+- text: About
+  url: /about/
